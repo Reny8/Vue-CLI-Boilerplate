@@ -5,6 +5,7 @@
 </template>
 <script>
 export default {
+  name: 'SamplePage',
   data() {
     return {
       title: 'This is a sample component',
