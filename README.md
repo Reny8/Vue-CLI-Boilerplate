@@ -1,24 +1,24 @@
 # Vue-App
 
-## Project setup
+## Initial Project Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### To Run the Server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles And Minifies For Production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints And Fixes Files
 ```
 npm run lint
 ```
 
-### Customize configuration
+### Customize Configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
