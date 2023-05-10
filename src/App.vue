@@ -1,5 +1,5 @@
 <template>
-  <TheHeader title="Vue Project" buttonText="Sample" />
+  <TheHeader title="Vue Project" />
   <router-view></router-view>
 </template>
 

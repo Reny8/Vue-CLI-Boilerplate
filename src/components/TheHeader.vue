@@ -1,16 +1,13 @@
 <template>
   <header>
     <h1>{{ title }}</h1>
-    <router-link to="/sample">
-      <button>{{ buttonText }}</button></router-link
-    >
   </header>
 </template>
 
 <script>
 export default {
   name: 'TheHeader',
-  props: ['title', 'buttonText'],
+  props: ['title'],
 };
 </script>
 
