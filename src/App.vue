@@ -1,6 +1,5 @@
 <template>
   <TheHeader title="Vue Project" />
-   <!-- HELLO WORLD EXAMPLE -->
   <router-view></router-view>
 </template>
 
